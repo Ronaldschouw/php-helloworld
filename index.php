@@ -6,7 +6,7 @@
 
 <body>
 
-<?php print "Hello, World!"; echo "<br>"; ?>
+<?php print "Hello, World! en Marc"; echo "<br>"; ?>
   
 <?php print "PHP version is " . PHP_VERSION . "\n"; echo "<br>";
   ?>  
